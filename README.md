@@ -7,7 +7,6 @@ On going projects:
 - Raspberry Pi Projects
 - 📫 How to reach me https://www.linkedin.com/in/cosmin-stan-4244b9171/
 
-<!---
-cosminstan95/cosminstan95 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+My Cat Manole :smile_cat:
+
+![image](https://user-images.githubusercontent.com/36852270/213117272-4fafee0e-8062-4bd6-a8a3-0e759ddc45ec.png)
