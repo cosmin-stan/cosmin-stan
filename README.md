@@ -9,4 +9,4 @@ On going projects:
 
 My Cat Manole :smile_cat:
 
-![image](https://user-images.githubusercontent.com/36852270/213117272-4fafee0e-8062-4bd6-a8a3-0e759ddc45ec.png)
+![image](https://user-images.githubusercontent.com/36852270/213123497-85c94a06-6c5e-44fa-bd9f-8577b905cebb.png)
