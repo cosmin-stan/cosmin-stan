@@ -1,10 +1,11 @@
-- 👋 Hi, I’m @Cosmin, Cybersecurity analyst specializing in the analysis and response to networking and security incidents. Dedicated to advancing skills in detection engineering, cloud security, and incident response management.
-- 🌱 I will share my notes and investigations mostly about cybersecurity and networking. I also like to develop personal projects with ARM boards like Raspberry pies.
+👋 Hi, I’m Cosmin — a cybersecurity analyst specializing in threat detection, cloud security, and incident response.
+🌱 I share notes, investigations, and projects focused on cybersecurity, networking, and ARM-based development.
 
 On going projects:
 - Malware analysis project, where I will perform analysis on different types of malware.
 - Python projects
 - Raspberry Pi Projects
+- Cybersecurity Labs
 - 📫 How to reach me https://www.linkedin.com/in/cosmin-stan-4244b9171/
 
 My Cat Manole :smile_cat:
