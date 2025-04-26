@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Cosmin, I work as a cybersecurity analyst and I am focusing every day to develop my skills in IR, malware analysis and foresincs.
+- 👋 Hi, I’m @Cosmin, Cybersecurity analyst specializing in the analysis and response to networking and security incidents. Dedicated to advancing skills in detection engineering, cloud security, and incident response management.
 - 🌱 I will share my notes and investigations mostly about cybersecurity and networking. I also like to develop personal projects with ARM boards like Raspberry pies.
 
 On going projects:
