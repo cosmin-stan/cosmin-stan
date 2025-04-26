@@ -1,4 +1,5 @@
 👋 Hi, I’m Cosmin — a cybersecurity analyst specializing in threat detection, cloud security, and incident response.
+
 🌱 I share notes, investigations, and projects focused on cybersecurity, networking, and ARM-based development.
 
 On going projects:
