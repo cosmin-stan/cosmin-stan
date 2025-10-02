@@ -1,9 +1,9 @@
-👋 Hi, I’m Cosmin — a cybersecurity analyst specializing in threat detection, cloud security, and incident response.
+👋 Hi, I’m Cosmin — a cybersecurity analyst specializing in incident response and threat detection .
 
 🌱 I share notes, investigations, and projects focused on cybersecurity, networking, and ARM-based development.
 
 On going projects:
-- Malware analysis project, where I will perform analysis on different types of malware.
+- Malware analysis
 - Python projects
 - Raspberry Pi Projects
 - Cybersecurity Labs
